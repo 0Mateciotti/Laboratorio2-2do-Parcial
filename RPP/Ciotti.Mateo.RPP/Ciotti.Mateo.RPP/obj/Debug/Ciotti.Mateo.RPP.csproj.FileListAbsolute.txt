@@ -1,0 +1,6 @@
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\bin\Debug\Ciotti.Mateo.RPP.dll
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\bin\Debug\Ciotti.Mateo.RPP.pdb
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\obj\Debug\Ciotti.Mateo.RPP.csproj.AssemblyReference.cache
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\obj\Debug\Ciotti.Mateo.RPP.csproj.CoreCompileInputs.cache
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\obj\Debug\Ciotti.Mateo.RPP.dll
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Ciotti.Mateo.RPP\obj\Debug\Ciotti.Mateo.RPP.pdb

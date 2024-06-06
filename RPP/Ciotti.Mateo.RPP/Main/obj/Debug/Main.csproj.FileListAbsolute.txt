@@ -1,0 +1,10 @@
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\bin\Debug\Main.exe.config
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\bin\Debug\Main.exe
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\bin\Debug\Main.pdb
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\bin\Debug\Ciotti.Mateo.RPP.dll
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\bin\Debug\Ciotti.Mateo.RPP.pdb
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\obj\Debug\Main.csproj.Up2Date
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\obj\Debug\Main.exe
+C:\Users\matep\OneDrive\Desktop\RPP\Ciotti.Mateo.RPP\Main\obj\Debug\Main.pdb
